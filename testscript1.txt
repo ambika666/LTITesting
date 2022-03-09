@@ -1,7 +1,13 @@
 public class test1{
 @test
 public void TC1(){
-System.out.println("testcase1");
+System.out.println("testcase1-register");
+}
+}
+public class test1{
+@test
+public void TC1(){
+System.out.println("testcase1-login");
 }
 }
 
